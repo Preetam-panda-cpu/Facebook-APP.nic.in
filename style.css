@@ -1,0 +1,111 @@
+body{
+    background: #f0f2f5;
+    min-width: 500px;
+}
+/* header section css starts here*/
+#header img{
+    position: absolute;
+    height: 70px;
+    margin-left: 557px;
+    margin-top: 80px;
+}
+
+.col2 input{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 58px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    border: none;
+    background: #eee;
+}
+.form-row{
+position: absolute;
+    height: 427px;
+    border-radius: 6px;
+    width: 404px;
+    background: #fff;
+    margin-left: 464px;
+    margin-top: 139px;
+}
+.col3 input{
+position: absolute;
+    margin-left: 478px;
+    margin-top: 265px;
+    font-size: 17px;
+    padding: 14px 16px;   
+     border-radius: 6px;
+    width: 330px;
+    border: none;
+    background: #eee;
+}
+button{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 363px;
+    cursor: pointer;
+    color: #fff;
+    margin-left: 478px;
+    margin-top: 348px;
+    position: absolute;
+}
+a{
+    cursor: pointer;
+    font-family: inherit;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 588px;
+    margin-top: 423px;
+    position: absolute;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.underline{
+    border-bottom: 1px solid #dadde1;
+    height: 37px;
+    width: 349px;
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 427px;
+}
+.newaccount button{
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 238px;
+    cursor: pointer;
+    color: #fff;
+    margin-left: 544px;
+    margin-top: 487px;
+    position: absolute;
+    background-color: #42b72a;
+}
+.page a{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: inherit;
+    cursor: pointer;
+    margin-left: 498px;
+    margin-top: 585px;
+    position: absolute;
+}
+.page ul{
+    margin-left: 560px;
+    margin-top: 584px;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    position: absolute;
+    font-size: 15px;
+}
+/* header section css ends here*/
